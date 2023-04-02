@@ -7,5 +7,21 @@ The project involves:
 3. Saving the cropped pic in a cropped folder. If face is not detected then saving it in not detected folder.
 
 Machine Learning Modules Used: 
-OpenCV -
-OS -
+OpenCV - To detect face from input image and creating the output image.
+OS - For reading images from input folder and saving the output images to the respective folders.
+
+Input Images :
+
+![alt text](https://github.com/souravcy/Passport_Size_Photo_Cropping/blob/main/Original_Images/sample5.jpg?raw=true)
+
+![alt text](https://github.com/souravcy/Passport_Size_Photo_Cropping/blob/main/Original_Images/sample6.jpg?raw=true)
+
+![alt text](https://github.com/souravcy/Passport_Size_Photo_Cropping/blob/main/Original_Images/sample9.jpg?raw=true)
+
+Output Images :
+
+![alt text](https://github.com/souravcy/Passport_Size_Photo_Cropping/blob/main/Cropped_Images/sample5.jpg?raw=true)
+
+![alt text](https://github.com/souravcy/Passport_Size_Photo_Cropping/blob/main/Cropped_Images/sample6.jpg?raw=true)
+
+![alt text](https://github.com/souravcy/Passport_Size_Photo_Cropping/blob/main/Cropped_Images/sample9.jpg?raw=true)
