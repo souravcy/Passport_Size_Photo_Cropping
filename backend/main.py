@@ -1,8 +1,8 @@
 from mtcnn import MTCNN
 import cv2
 import tempfile
-from fastapi.responses import JSONResponse
 from fastapi import FastAPI, UploadFile
+from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 import base64
 
